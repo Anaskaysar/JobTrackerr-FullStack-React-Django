@@ -103,8 +103,8 @@ I designed this for:
 ```mermaid
 graph TB
     subgraph "Client Layer"
-        A[Web Application<br/>React + Tailwind v4<br/>(Hosted on Vercel)]
-        B[Mobile Application<br/>React Native<br/>(iOS & Android)]
+        A["Web Application<br/>React + Tailwind v4<br/>(Hosted on Vercel)"]
+        B["Mobile Application<br/>React Native<br/>(iOS & Android)"]
     end
 
     subgraph "API Gateway & Security"

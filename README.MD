@@ -139,3 +139,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Open backend server for deployment
 ssh -i "jobtracker-key.pem" ubuntu@api.jobtrackerr.com
+
+vercel --prod
